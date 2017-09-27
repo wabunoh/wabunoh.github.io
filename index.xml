@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wabunoh Technologies</title>
+    <link>https://wabunoh-tech.com/</link>
+    <description>Recent content on Wabunoh Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2017 15:37:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://wabunoh-tech.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterprise Intigration</title>
+      <link>https://wabunoh-tech.com/ei/</link>
+      <pubDate>Wed, 27 Sep 2017 15:37:44 +0000</pubDate>
+      
+      <guid>https://wabunoh-tech.com/ei/</guid>
+      <description>Requirements and principles deal with determining the business drivers and guiding principles that help in the development of the enterprise architecture. Each functional and non-functional requirement should be traceable to one or more business drivers. Organizations are beginning to become more aware of the need for capturing and managing requirements. Use-case modeling is one of the techniques that is used for doing this. Enterprise Integration, according to Brosey et al. (2001), &amp;ldquo;aims to connect and combines people, processes, systems, and technologies to ensure that the right people and the right processes have the right information and the right resources at the right time&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
